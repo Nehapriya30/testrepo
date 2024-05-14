@@ -1,2 +1,2 @@
 # testrepo
-it is a mark down file in the resporatory
+it is a mark down file in the respository
